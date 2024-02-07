@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded",()=>{
-const url = 'https://weather-by-api-ninjas.p.rapidapi.com/v1/weather?';
+const url = '';
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'f9ecff08d9msh3e3994155a9e38dp129734jsn6e35a0e94f71',
-		'X-RapidAPI-Host': 'weather-by-api-ninjas.p.rapidapi.com'
+		'X-RapidAPI-Key': '',
+		'X-RapidAPI-Host': ''
 	}
 };
 
